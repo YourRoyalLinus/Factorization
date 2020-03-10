@@ -1,0 +1,17 @@
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization.Tests\bin\Debug\Factorization.Tests.dll
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization.Tests\bin\Debug\Factorization.Tests.pdb
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization.Tests\bin\Debug\Factorization.dll
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization.Tests\bin\Debug\xunit.assert.dll
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization.Tests\bin\Debug\xunit.core.dll
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization.Tests\bin\Debug\Factorization.pdb
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization.Tests\bin\Debug\xunit.abstractions.xml
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization.Tests\bin\Debug\xunit.assert.xml
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization.Tests\bin\Debug\xunit.core.xml
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization.Tests\obj\Debug\Factorization.Tests.csprojAssemblyReference.cache
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization.Tests\obj\Debug\Factorization.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization.Tests\obj\Debug\Factorization.Tests.csproj.CopyComplete
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization.Tests\obj\Debug\Factorization.Tests.dll
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization.Tests\obj\Debug\Factorization.Tests.pdb

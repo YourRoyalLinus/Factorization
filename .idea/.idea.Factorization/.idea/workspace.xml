@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f18dc560-8620-423a-9a95-e6c94b95d535" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC1DB133-E97D-4A6F-BEC9-3D52351902CF/60/61f82190/Console.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factorization.Tests/FactoringTests/FactorizationTreeTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factorization.Tests/FactoringTests/FactorizeTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC1DB133-E97D-4A6F-BEC9-3D52351902CF/c7/1373b56e/SyncTextReader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC1DB133-E97D-4A6F-BEC9-3D52351902CF/e2/99efaf61/SyncTextWriter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/c0/9c85545b/StreamReader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8517F607-C12A-4B50-8364-C3F896F0FE6F/2e/7a648d42/Assert.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factorization.Tests/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/e6/b2e40499/Monitor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/06452B71-9576-486B-AAA3-34B141B6537A/af/74168bb8/Int64.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/b0/cca124dd/StreamWriter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factorization.Tests/DataHandlingTests/DataManipulationTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/06452B71-9576-486B-AAA3-34B141B6537A/9d/e24f8ee8/NumberFormatInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factorization.Tests/DataHandlingTests/DataValidationTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/f7/d7c4f79e/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/06452B71-9576-486B-AAA3-34B141B6537A/dd/caf13bde/Thread.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factorization/obj/Debug/netstandard2.1/Factorization.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/d1/67750f1d/ReadOnlySpan`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/06452B71-9576-486B-AAA3-34B141B6537A/db/cee25efb/AppDomain.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/be/ed3e71eb/Task.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AF40708A-06AB-4B6A-BD16-C329C135380C/04/1d098c04/LinkedList`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/23/39927b57/MemoryMarshal.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/01/d1ff0cbd/TextWriter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factorization/NumberTypes/CompositeNumber.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/1a/50d3108c/Math.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factorization/Factoring/BinaryTree/BNode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factorization/Factoring/Factorize.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factorization/DataHandling/DataValidation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factorization/NumberTypes/Interfaces/IFactor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A2DDBDA9-1E09-414A-801B-36BA566856C2/4a/ee26a426/Buffer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factorization/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factorization/DataHandling/DataManipulation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factorization/Factoring/BinaryTree/BinaryTree.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factorization/Factoring/FactorizationTree.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC1DB133-E97D-4A6F-BEC9-3D52351902CF/46/314f11af/OSEncoder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factorization/Messaging/StandardInputMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factorization/NumberTypes/PrimeNumber.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factorization/Messaging/StandardOutputMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC1DB133-E97D-4A6F-BEC9-3D52351902CF/bb/82c9f8ad/ConsolePal.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC1DB133-E97D-4A6F-BEC9-3D52351902CF/10/d7b56154/ConsoleStream.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Factorization/Composite.cs" />
+        <option value="$PROJECT_DIR$/Factorization/PrimeNumber.cs" />
+        <option value="$PROJECT_DIR$/Factorization/IFactorizationTree.cs" />
+        <option value="$PROJECT_DIR$/Factorization/CompositeNumber.cs" />
+        <option value="$PROJECT_DIR$/Factorization/IFactor.cs" />
+        <option value="$PROJECT_DIR$/Factorization/Bnode.cs" />
+        <option value="$PROJECT_DIR$/Factorization/Factorize.cs" />
+        <option value="$PROJECT_DIR$/Factorization/BNode.cs" />
+        <option value="$PROJECT_DIR$/Factorization/rename.cs" />
+        <option value="$PROJECT_DIR$/Factorization/BinaryTree.cs" />
+        <option value="$PROJECT_DIR$/Factorization/FactorizationTree.cs" />
+        <option value="$PROJECT_DIR$/Factorization/DataManipulation.cs" />
+        <option value="$PROJECT_DIR$/Factorization/StandardOutputMessage.cs" />
+        <option value="$PROJECT_DIR$/Factorization/StandardInputMessage.cs" />
+        <option value="$PROJECT_DIR$/Factorization/DataValidation.cs" />
+        <option value="$PROJECT_DIR$/Factorization/Factoring/Factorize.cs" />
+        <option value="$PROJECT_DIR$/Factorization/Factoring/BinaryTree/BinaryTree.cs" />
+        <option value="$PROJECT_DIR$/Factorization/Factoring/BinaryTree/BNode.cs" />
+        <option value="$PROJECT_DIR$/Factorization/Messaging/StandardInputMessage.cs" />
+        <option value="$PROJECT_DIR$/Factorization/Messaging/StandardOutputMessage.cs" />
+        <option value="$PROJECT_DIR$/Factorization/NumberTypes/CompositeNumber.cs" />
+        <option value="$PROJECT_DIR$/Factorization/NumberTypes/PrimeNumber.cs" />
+        <option value="$PROJECT_DIR$/Factorization.Tests/Class1.cs" />
+        <option value="$PROJECT_DIR$/Factorization.Tests/DataManipulationTests.cs" />
+        <option value="$PROJECT_DIR$/Factorization.Tests/DataHandling/DataValidation.cs" />
+        <option value="$PROJECT_DIR$/Factorization/Factoring/FactorizationTree.cs" />
+        <option value="$PROJECT_DIR$/Factorization.Tests/DataHandling/DataManipulationTests.cs" />
+        <option value="$PROJECT_DIR$/Factorization/DataHandling/DataValidation.cs" />
+        <option value="$PROJECT_DIR$/Factorization/DataHandling/DataManipulation.cs" />
+        <option value="$PROJECT_DIR$/Factorization/Program.cs" />
+        <option value="$PROJECT_DIR$/Factorization.Tests/Factoring/BinaryTree/BinaryTreeTests.cs" />
+        <option value="$PROJECT_DIR$/Factorization.Tests/DataHandling/DataValidationTests.cs" />
+        <option value="$PROJECT_DIR$/Factorization.Tests/Factoring/FactorizationTreeTests.cs" />
+        <option value="$PROJECT_DIR$/Factorization.Tests/Factoring/FactorizeTests.cs" />
+        <option value="$PROJECT_DIR$/Factorization.Tests/FactoringTests/FactorizationTreeTests.cs" />
+        <option value="$PROJECT_DIR$/Factorization.Tests/FactoringTests/FactorizeTests.cs" />
+        <option value="$PROJECT_DIR$/Factorization.Tests/DataHandlingTests/DataValidationTests.cs" />
+        <option value="$PROJECT_DIR$/Factorization.Tests/DataHandlingTests/DataManipulationTests.cs" />
+        <option value="$PROJECT_DIR$/Factorization.Tests/MessagingTests/StandardInputMsgTests.cs" />
+        <option value="$PROJECT_DIR$/Factorization/NumberTypes/Interfaces/IFactor.cs" />
+        <option value="$PROJECT_DIR$/Factorization.Tests/MessagingTests/StandardOutputMsgTests.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Q7O9OzQq0tRfZjqnejxZ4sKOqT" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Factorization/bin/Debug/netcoreapp2.2/Factorization.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Factorization/bin/Debug/netcoreapp2.2" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Factorization/Factorization.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f18dc560-8620-423a-9a95-e6c94b95d535" name="Default Changelist" comment="" />
+      <created>1567118018169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567118018169</updated>
+      <workItem from="1567118022462" duration="24691000" />
+      <workItem from="1567618508143" duration="9457000" />
+      <workItem from="1567816473893" duration="6827000" />
+      <workItem from="1567866304669" duration="6029000" />
+      <workItem from="1567900742480" duration="5595000" />
+      <workItem from="1568282298839" duration="2152000" />
+      <workItem from="1568413259981" duration="23849000" />
+      <workItem from="1568600790298" duration="2255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="644" y="196" key="#Default" />
+    <state x="644" y="196" key="#Default/1920.1080/1920.1080" />
+    <state x="740" y="274" key="FileChooserDialogImpl" />
+    <state x="740" y="274" key="FileChooserDialogImpl/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom" />
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.2.bottom" />
+    <state width="1877" height="347" key="GridCell.Tab.2.bottom/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.2.center" />
+    <state width="1877" height="347" key="GridCell.Tab.2.center/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.2.left" />
+    <state width="1877" height="347" key="GridCell.Tab.2.left/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.2.right" />
+    <state width="1877" height="347" key="GridCell.Tab.2.right/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.3.bottom" />
+    <state width="1877" height="347" key="GridCell.Tab.3.bottom/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.3.center" />
+    <state width="1877" height="347" key="GridCell.Tab.3.center/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.3.left" />
+    <state width="1877" height="347" key="GridCell.Tab.3.left/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.3.right" />
+    <state width="1877" height="347" key="GridCell.Tab.3.right/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.4.bottom" />
+    <state width="1877" height="347" key="GridCell.Tab.4.bottom/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.4.center" />
+    <state width="1877" height="347" key="GridCell.Tab.4.center/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.4.left" />
+    <state width="1877" height="347" key="GridCell.Tab.4.left/1920.1080/1920.1080" />
+    <state width="1877" height="347" key="GridCell.Tab.4.right" />
+    <state width="1877" height="347" key="GridCell.Tab.4.right/1920.1080/1920.1080" />
+    <state x="555" y="161" key="Rider.ProjectTemplateDialog.Size" />
+    <state x="555" y="161" key="Rider.ProjectTemplateDialog.Size/1920.1080/1920.1080" />
+    <state x="788" y="205" key="RiderGenerateDialog" />
+    <state x="788" y="205" key="RiderGenerateDialog/1920.1080/1920.1080" />
+    <state x="445" y="162" key="SettingsEditor" />
+    <state x="445" y="162" key="SettingsEditor/1920.1080/1920.1080" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup/1920.1080/1920.1080" />
+    <state x="607" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" />
+    <state x="607" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.1080/1920.1080" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.1080/1920.1080" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="compNum.Value" language="C#" custom="RiderImportsList:" />
+        <watch expression="Math.Sqrt(compNum.Value)" language="C#" custom="RiderImportsList:" />
+        <watch expression="factors.GetType()" language="C#" custom="RiderImportsList:" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

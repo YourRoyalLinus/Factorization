@@ -1,0 +1,8 @@
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization\bin\Debug\net472\Factorization.pdb
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization\obj\Debug\net472\Factorization.csprojAssemblyReference.cache
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization\obj\Debug\net472\Factorization.AssemblyInfoInputs.cache
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization\obj\Debug\net472\Factorization.AssemblyInfo.cs
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization\obj\Debug\net472\Factorization.pdb
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization\bin\Debug\net472\Factorization.exe.config
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization\bin\Debug\net472\Factorization.exe
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization\obj\Debug\net472\Factorization.exe

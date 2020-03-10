@@ -1,0 +1,22 @@
+C:\Users\Jon\RiderProjects\Factorization\Factorization\bin\Debug\netcoreapp2.2\Factorization.deps.json
+C:\Users\Jon\RiderProjects\Factorization\Factorization\bin\Debug\netcoreapp2.2\Factorization.runtimeconfig.json
+C:\Users\Jon\RiderProjects\Factorization\Factorization\bin\Debug\netcoreapp2.2\Factorization.runtimeconfig.dev.json
+C:\Users\Jon\RiderProjects\Factorization\Factorization\bin\Debug\netcoreapp2.2\Factorization.dll
+C:\Users\Jon\RiderProjects\Factorization\Factorization\bin\Debug\netcoreapp2.2\Factorization.pdb
+C:\Users\Jon\RiderProjects\Factorization\Factorization\obj\Debug\netcoreapp2.2\Factorization.csprojAssemblyReference.cache
+C:\Users\Jon\RiderProjects\Factorization\Factorization\obj\Debug\netcoreapp2.2\Factorization.csproj.CoreCompileInputs.cache
+C:\Users\Jon\RiderProjects\Factorization\Factorization\obj\Debug\netcoreapp2.2\Factorization.AssemblyInfoInputs.cache
+C:\Users\Jon\RiderProjects\Factorization\Factorization\obj\Debug\netcoreapp2.2\Factorization.AssemblyInfo.cs
+C:\Users\Jon\RiderProjects\Factorization\Factorization\obj\Debug\netcoreapp2.2\Factorization.dll
+C:\Users\Jon\RiderProjects\Factorization\Factorization\obj\Debug\netcoreapp2.2\Factorization.pdb
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization\bin\Debug\netcoreapp2.2\Factorization.deps.json
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization\bin\Debug\netcoreapp2.2\Factorization.runtimeconfig.json
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization\bin\Debug\netcoreapp2.2\Factorization.runtimeconfig.dev.json
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization\bin\Debug\netcoreapp2.2\Factorization.dll
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization\bin\Debug\netcoreapp2.2\Factorization.pdb
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization\obj\Debug\netcoreapp2.2\Factorization.csprojAssemblyReference.cache
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization\obj\Debug\netcoreapp2.2\Factorization.csproj.CoreCompileInputs.cache
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization\obj\Debug\netcoreapp2.2\Factorization.AssemblyInfoInputs.cache
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization\obj\Debug\netcoreapp2.2\Factorization.AssemblyInfo.cs
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization\obj\Debug\netcoreapp2.2\Factorization.dll
+C:\Users\Jon\RiderProjects\Factorization 1.0\Factorization\obj\Debug\netcoreapp2.2\Factorization.pdb

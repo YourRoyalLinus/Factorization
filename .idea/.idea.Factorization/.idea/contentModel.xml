@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Jon\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Jon\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Factorization.-1570450425.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Jon\RiderProjects\Factorization 1.0" t="IncludeFlat">
+      <e p="Factorization" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DataHandling" t="Include">
+          <e p="DataManipulation.cs" t="Include" />
+          <e p="DataValidation.cs" t="Include" />
+        </e>
+        <e p="Factoring" t="Include">
+          <e p="BinaryTree" t="Include">
+            <e p="BinaryTree.cs" t="Include" />
+            <e p="Bnode.cs" t="Include" />
+          </e>
+          <e p="FactorizationTree.cs" t="Include" />
+          <e p="Factorize.cs" t="Include" />
+        </e>
+        <e p="Factorization.csproj" t="IncludeRecursive" />
+        <e p="Messaging" t="Include">
+          <e p="StandardInputMessage.cs" t="Include" />
+          <e p="StandardOutputMessage.cs" t="Include" />
+        </e>
+        <e p="NumberTypes" t="Include">
+          <e p="CompositeNumber.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="IFactor.cs" t="Include" />
+          </e>
+          <e p="PrimeNumber.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net472" t="Include">
+              <e p="Factorization.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Factorization.sln" t="IncludeFlat" />
+      <e p="Factorization.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DataHandlingTests" t="Include">
+          <e p="DataManipulationTests.cs" t="Include" />
+          <e p="DataValidationTests.cs" t="Include" />
+        </e>
+        <e p="FactoringTests" t="Include">
+          <e p="FactorizationTreeTests.cs" t="Include" />
+          <e p="FactorizeTests.cs" t="Include" />
+        </e>
+        <e p="Factorization.Tests.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
